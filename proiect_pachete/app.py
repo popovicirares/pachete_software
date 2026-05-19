@@ -81,7 +81,7 @@ if sectiune == "Descrierea Problemei":
 
     - Categoriile de produse includ: Books, Games, Clothing, Beauty, Electronics, Appliances, Smartphones, Accessories, Outdoors, Other
     - Tarile acoperite includ: Portugalia, Suedia, Marea Britanie, Franta, Spania, Finlanda, Olanda, Belgia, Bulgaria, Irlanda, Italia, Luxemburg
-    - Canalele de vanzare: **PC**, **Mobile** si **Tablet**
+    - Tipul dispozitivului: **PC**, **Mobile** si **Tablet**
     - Perioada de timp: **ianuarie 2019 – decembrie 2020** (2 ani fiscali completi)
     """)
 
