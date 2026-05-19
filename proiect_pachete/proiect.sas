@@ -1,6 +1,3 @@
-Înțeles, îmi pare rău! Iată codul direct în chat:
-
-```sas
 /* 1. creare set de date din fisier extern */
 
 PROC IMPORT
@@ -252,4 +249,3 @@ PROC FREQ DATA=WORK.vanzari_procesate;
     TABLES device_type * categorie_profit / NOCUM NOPERCENT;
     TITLE "Tip dispozitiv vs categorie profit";
 RUN;
-```
